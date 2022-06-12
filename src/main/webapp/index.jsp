@@ -1,5 +1,6 @@
 <html>
 <body>
-<h2>Welcome to KK JavaTutorials..</h2>
+<h2>PG DO - Configuration Management with Chef, Puppet and Ansible</h2>
+  <b>Deployment Status: SUCCESS </b>
 </body>
 </html>
